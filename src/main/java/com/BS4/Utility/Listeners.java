@@ -9,7 +9,7 @@ public class Listeners implements ITestListener {
 	
 
 	public void onTestStart(ITestResult result) {
-	
+	screenshot
 	}
 
 	public void onTestSuccess(ITestResult result) {
